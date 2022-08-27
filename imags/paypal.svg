@@ -1,0 +1,12 @@
+<svg id="paypal_3_1" data-name="paypal (3) 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="paypal_3_1_Background_Mask_" data-name="paypal (3) 1 (Background/Mask)" width="30" height="30" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="paypal_3_1_Background_Mask_2" data-name="paypal (3) 1 (Background/Mask)" width="30" height="30" fill="none"/>
+  <g id="paypal_3_1-2" data-name="paypal (3) 1" clip-path="url(#clip-path)">
+    <path id="Vector" d="M16.436.066a.625.625,0,0,0-.34.491c-.022.205-.057.41-.1.625-1.224,5.554-3.681,8.255-7.515,8.255H2.854a.625.625,0,0,0-.611.5L.368,18.726.033,20.964a1.875,1.875,0,0,0,1.834,2.224H5.629a1.866,1.866,0,0,0,1.819-1.424l1.52-6.076h3.261c3.849,0,6.509-3.069,7.49-8.641A6.533,6.533,0,0,0,17.033.086.625.625,0,0,0,16.436.066Z" transform="translate(7.896 6.813)" fill="#03a9f4"/>
+    <path id="Vector-2" data-name="Vector" d="M16.677,0H6.327A3.109,3.109,0,0,0,3.235,2.658L.021,24.1A1.875,1.875,0,0,0,1.877,26.25h4.8a.625.625,0,0,0,.611-.5L9.057,17.5h5.125c4.447,0,7.386-3.109,8.736-9.25a7.359,7.359,0,0,0,.125-.741,6.454,6.454,0,0,0-1.491-5.281A6.577,6.577,0,0,0,16.677,0Z" transform="translate(2.198 0)" fill="#283593"/>
+  </g>
+</svg>

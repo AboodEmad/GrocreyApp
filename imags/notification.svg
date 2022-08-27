@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="12.737" viewBox="0 0 11 12.737">
+  <g id="bell" transform="translate(-2 -1.616)">
+    <path id="Vector" d="M6.5,13.353A1.434,1.434,0,0,1,5.5,13l-.646-.646A1.249,1.249,0,0,1,4.5,11.5h4a1.248,1.248,0,0,1-.353.853L7.5,13A1.432,1.432,0,0,1,6.5,13.353ZM11.5,10H1.5V8.536A8.835,8.835,0,0,1,4,2.5a3.585,3.585,0,0,1,2.5-.884A3.585,3.585,0,0,1,9,2.5a8.836,8.836,0,0,1,2.5,6.035V10Z" transform="translate(1 0.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="0 0"/>
+  </g>
+</svg>
